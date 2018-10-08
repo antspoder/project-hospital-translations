@@ -11,210 +11,210 @@
         <LocalizedStrings>
             <!--actually in beta-->
             <!--indoor flooring-->
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CONSTRUCTION</LocID>      	            <Text>Construction floor</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_WHITE_TILES</LocID>      	            <Text>White tiles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_GREEN_LINE</LocID>      		            <Text>Thick colored line</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_BLUE_LINE</LocID>      		            <Text>Thin colored line</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_APRICOT</LocID>                  <Text>Colored tiles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_BEIGE</LocID>                    <Text>Light colored tiles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_TINY</LocID>                     <Text>Small white ceramic tiles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_MED</LocID>               		<Text>Medium white ceramic tiles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_MED_COLOR</LocID>                <Text>Colored medium tiles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_MED_AMAZON</LocID>               <Text>Light-colored medium tiles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_FILLED</LocID>      		    	<Text>Fully-colored medium tiles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_WHITE</LocID>      			            <Text>White floor</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_BLACK</LocID>     			            <Text>Black floor</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_BLUE</LocID>      		            	<Text>Dark colored tile</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_COLORED_DARK_LINE</LocID>      		    <Text>Dark colored tile - line</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_COLORED_LIGHT</LocID>      		        <Text>Light colored tile</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_COLORED_LIGHT_LINE</LocID>      		    <Text>Light colored tile - line</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_WOOD_RIGHT</LocID>                       <Text>Laminate flooring</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_WOOD_LEFT</LocID>                        <Text>Laminate flooring</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_WOOD_DARK_RIGHT</LocID>                  <Text>Hardwood flooring</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_WOOD_DARK_LEFT</LocID>      	            <Text>Hardwood flooring</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_LINO_COLORED_LIGHT</LocID>      		    <Text>Light lino flooring</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_LINO_LIGHT_LINE</LocID>      		    <Text>Light lino flooring - line</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_LINO_COLORED_DARK</LocID>      		    <Text>Dark lino flooring</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_LINO_DARK_LINE</LocID>      		    	<Text>Dark lino flooring - line</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_PANNELS</LocID>      		    		<Text>Panels flooring</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_ROOF</LocID>      		    			<Text>Roof tiles</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CONSTRUCTION</LocID>      	            <Text>Vundament</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_WHITE_TILES</LocID>      	            <Text>Valged plaadid</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_GREEN_LINE</LocID>      		            <Text>Jäme värvitud joon</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_BLUE_LINE</LocID>      		            <Text>Peenike värvitud joon</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_APRICOT</LocID>                  <Text>Värvilised plaadid</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_BEIGE</LocID>                    <Text>Heledat värvi plaadid</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_TINY</LocID>                     <Text>Väikesed valged keraamilised plaadid</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_MED</LocID>               		<Text>Keskmised valged keraamilised plaadid</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_MED_COLOR</LocID>                <Text>Värvilised keskmised plaadid</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_MED_AMAZON</LocID>               <Text>Heledat värvi keskmised plaadid</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_FILLED</LocID>      		    	<Text>Värvilised keskmised plaadid</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_WHITE</LocID>      			            <Text>Valge põrand</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_BLACK</LocID>     			            <Text>Must põrand</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_BLUE</LocID>      		            	<Text>Tumedat värvi plaadid</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_COLORED_DARK_LINE</LocID>      		    <Text>Tumedat värvi plaat - joon</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_COLORED_LIGHT</LocID>      		        <Text>Heledat värvi plaat</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_COLORED_LIGHT_LINE</LocID>      		    <Text>Heledat värvi plaat - joon</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_WOOD_RIGHT</LocID>                       <Text>Laminaatpõrand</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_WOOD_LEFT</LocID>                        <Text>Laminaatpõrand</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_WOOD_DARK_RIGHT</LocID>                  <Text>Puidust põrand</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_WOOD_DARK_LEFT</LocID>      	            <Text>Puidust põrand</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_LINO_COLORED_LIGHT</LocID>      		    <Text>Hele linoleumpõrand</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_LINO_LIGHT_LINE</LocID>      		    <Text>Hele linoleumpõrand - joon</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_LINO_COLORED_DARK</LocID>      		    <Text>Tume linoleumpõrand</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_LINO_DARK_LINE</LocID>      		    	<Text>Tume linoleumpõrand - joon</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_PANNELS</LocID>      		    		<Text>Paneelpõrand</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_ROOF</LocID>      		    			<Text>Katusekivid</Text>  </GameDBLocalizedString>
             
             <!--outdoor flooring-->
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CONCRETE_BRICK</LocID>                   <Text>Concrete pavement</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_INTERLOCKING_PAWMENT</LocID>             <Text>Interlocking pavement</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_GRASS</LocID>                            <Text>Grass</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_GRASS_DARK</LocID>                       <Text>Darker grass</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_ROAD</LocID>                             <Text>Road (asphalt)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_LINE</LocID>                             <Text>Road line</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_ROAD_DETAIL</LocID>                      <Text>Road details</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_ROAD_DRAIN_LEFT</LocID>                  <Text>Road drain</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_PEDESTRIAN_CROSSING_NW</LocID>           <Text>Pedestrian crossing</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_PEDESTRIAN_CROSSING_NE</LocID>           <Text>Pedestrian crossing</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_ROAD_AMBULANCE_L</LocID>                 <Text>Ambulance area</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_ROAD_AMBULANCE_R</LocID>                 <Text>Ambulance area</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CONSTRUCTION_OUTSIDE</LocID>             <Text>Construction ground</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_SAND</LocID>                             <Text>Sand</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_GRAVEL</LocID>                           <Text>Gravel</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_DIRT</LocID>                             <Text>Ground</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CONCRETE_BRICK</LocID>                   <Text>Betoonkattega kõnnitee</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_INTERLOCKING_PAWMENT</LocID>             <Text>Blokeeriv kõnnitee</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_GRASS</LocID>                            <Text>Muru</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_GRASS_DARK</LocID>                       <Text>Tumedam muru</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_ROAD</LocID>                             <Text>Tee (asfalt)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_LINE</LocID>                             <Text>Tee joon</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_ROAD_DETAIL</LocID>                      <Text>Tee detailid</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_ROAD_DRAIN_LEFT</LocID>                  <Text>Tee äravool</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_PEDESTRIAN_CROSSING_NW</LocID>           <Text>Ülekäigurada</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_PEDESTRIAN_CROSSING_NE</LocID>           <Text>Ülekäigurada</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_ROAD_AMBULANCE_L</LocID>                 <Text>Kiirabi ala</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_ROAD_AMBULANCE_R</LocID>                 <Text>Kiirabi ala</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CONSTRUCTION_OUTSIDE</LocID>             <Text>Ehitusplats</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_SAND</LocID>                             <Text>Liiv</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_GRAVEL</LocID>                           <Text>Kruus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_DIRT</LocID>                             <Text>Maapind</Text>  </GameDBLocalizedString>
             
             <!--not present in game-->
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_TILES</LocID>                            <Text>Big tiles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_GRASS_01</LocID>                         <Text>Grass1</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_GRASS_02</LocID>                         <Text>Grass2</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_GRASS_03</LocID>                         <Text>Grass3</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_NONE</LocID>                             <Text>Empty nothingness</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_BLUE</LocID>      	            <Text>Ceramic blue</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_RANDOM_COLORED</LocID>      		        <Text>Random colored</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_TILES</LocID>                            <Text>Suured plaadid</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_GRASS_01</LocID>                         <Text>Muru1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_GRASS_02</LocID>                         <Text>Muru2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_GRASS_03</LocID>                         <Text>Muru3</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_NONE</LocID>                             <Text>Tühi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_BLUE</LocID>      	            <Text>Keraamiline sinine</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_RANDOM_COLORED</LocID>      		        <Text>Suvaline värv</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_DONT_USE</LocID>      		    		<Text>Test</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_DEFAULT</LocID>                           <Text>White wall</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_CONCRETE_TILES</LocID>                    <Text>Concrete tiles wall</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_BRICKS</LocID>                            <Text>Brick wall</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_BRICKS_SOCLE</LocID>                      <Text>Brick wall with base</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_CONCRETE_OUTSIDE</LocID>                  <Text>White exterior wall, pattern base</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_CONCRETE_OUTSIDE_BOTTOM</LocID>           <Text>White exterior wall, pattern top</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_CONCRETE_OUTSIDE_TOP</LocID>              <Text>White exterior wall, patterm bottom</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_CONCRETE_COLOR</LocID>                    <Text>Colored exterior wall, brick base</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_CONCRETE_COLOR_BOTTOM</LocID>             <Text>Colored exterior wall, brick top</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_CONCRETE_COLOR_TOP</LocID>                <Text>Colored exterior wall, brick bottom</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_PLATES</LocID>                            <Text>Aluminum panels - white</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_PLATES_COLORED</LocID>                    <Text>Aluminum panels - colored</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_LIGHTWOOD_ALL</LocID>                     <Text>Light wood panels</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_LIGHTWOOD_TOP</LocID>                     <Text>Light wood panels - Top</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_LIGHTWOOD_BOTTOM</LocID>                  <Text>Light wood panels - Bottom</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_DARKWOOD_ALL</LocID>                      <Text>Dark wood panels</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_DARKWOOD_TOP</LocID>                      <Text>Dark wood panels - Top</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_DARKWOOD_BOTTOM</LocID>                   <Text>Dark wood panels - Bottom</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_CERAMIC_WHITE</LocID>                     <Text>White tiles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_CERAMIC_WHITE_HALF</LocID>                <Text>White tiles + white wall</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_CERAMIC_WHITE_HALF_COLORED</LocID>        <Text>White tiles + colored wall</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_CERAMIC_WHITE_LINE</LocID>                <Text>White tiles + colored line</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_CERAMIC_ORANGE</LocID>                    <Text>Colored tiles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_CERAMIC_COLORED_HALF_WHITE</LocID>        <Text>Colored tiles + white wall</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_CERAMIC_COLORED_HALF</LocID>              <Text>Colored tiles and wall</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_WC</LocID>                                <Text>Restroom wall</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_DEFAULT</LocID>                           <Text>Valged seinad</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_CONCRETE_TILES</LocID>                    <Text>Betoonist sein</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_BRICKS</LocID>                            <Text>Tellistest sein</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_BRICKS_SOCLE</LocID>                      <Text>Tellistest sein põhjaga</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_CONCRETE_OUTSIDE</LocID>                  <Text>Valge välissein, mustriline põhi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_CONCRETE_OUTSIDE_BOTTOM</LocID>           <Text>Valge välissein, mustriline peal</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_CONCRETE_OUTSIDE_TOP</LocID>              <Text>Valge välissein, patterm all</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_CONCRETE_COLOR</LocID>                    <Text>Värvliline välissein, tellistest põhi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_CONCRETE_COLOR_BOTTOM</LocID>             <Text>Värviline välissein, tellised peal</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_CONCRETE_COLOR_TOP</LocID>                <Text>Värviline välissein, tellised all</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_PLATES</LocID>                            <Text>Alumiiniumpaneelid - valge</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_PLATES_COLORED</LocID>                    <Text>Alumiiniumpaneelid - värvilised</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_LIGHTWOOD_ALL</LocID>                     <Text>Heledast puidust paneelid</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_LIGHTWOOD_TOP</LocID>                     <Text>Heledast puidust paneelid - peal</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_LIGHTWOOD_BOTTOM</LocID>                  <Text>Heledast puidust paneelid - all</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_DARKWOOD_ALL</LocID>                      <Text>Tumedast puidust paneelid</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_DARKWOOD_TOP</LocID>                      <Text>Tumedast puidust paneelid - peal</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_DARKWOOD_BOTTOM</LocID>                   <Text>Tumedast puidust paneelid - all</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_CERAMIC_WHITE</LocID>                     <Text>Valged plaadid</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_CERAMIC_WHITE_HALF</LocID>                <Text>Valged plaadid + valge sein</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_CERAMIC_WHITE_HALF_COLORED</LocID>        <Text>Valged plaadid + värvitud sein</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_CERAMIC_WHITE_LINE</LocID>                <Text>Valged plaadid + värvitud joon</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_CERAMIC_ORANGE</LocID>                    <Text>Värvilised plaadid</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_CERAMIC_COLORED_HALF_WHITE</LocID>        <Text>Värvilised plaadid + valge sein</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_CERAMIC_COLORED_HALF</LocID>              <Text>Värvilised plaadid ja sein</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_WC</LocID>                                <Text>WC sein</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_GREEN</LocID>                             <Text>Colored wall</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_LINE</LocID>                              <Text>Middle colored stripe</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_TWOLINES</LocID>                          <Text>Two colored stripes</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_THICK_LINE_ORANGE</LocID>                 <Text>Thick colored stripe</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_LINE_HALF_BLUE</LocID>                    <Text>Half-colored wall with stripe</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_HALF_GREEN</LocID>                        <Text>Top and bottom stripes</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_HALF</LocID>                              <Text>Bottom colored wall</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_UPPER_HALF</LocID>                        <Text>Top colored wall</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_LINE_ORANGE</LocID>                       <Text>Colored wall - white stripe</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_WOOND_PANELING_ORANGE</LocID>             <Text>Fancy wood with stripe</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WALL_TYPE_TEST</LocID>                           	<Text>Don't use</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_GREEN</LocID>                             <Text>Värviline sein</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_LINE</LocID>                              <Text>Keskelt värviline joon</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_TWOLINES</LocID>                          <Text>Kaks värvilist joont</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_THICK_LINE_ORANGE</LocID>                 <Text>Jäme värviline joon</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_LINE_HALF_BLUE</LocID>                    <Text>Pooleldi värvitud sein joonega</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_HALF_GREEN</LocID>                        <Text>Jooned üleval ja all</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_HALF</LocID>                              <Text>Alt värvitud sein</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_UPPER_HALF</LocID>                        <Text>Ülevalt värvitud sein</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_LINE_ORANGE</LocID>                       <Text>Värvitud sein - valge joon</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_WOOND_PANELING_ORANGE</LocID>             <Text>Peen puit joonega</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WALL_TYPE_TEST</LocID>                           	<Text>Ära kasuta</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>WINDOW_DEFAULT</LocID>                              <Text>Window with sun blind</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WINDOW_TALL</LocID>                                 <Text>Tall window</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>GLASS_WALL_DOUBLELINES</LocID>                      <Text>Glass wall</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WINDOW_FLAT</LocID>                                 <Text>Watch window</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>GLASS_WALL_COLOR</LocID>                            <Text>Glass wall</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WINDOW_GLASS_TALL</LocID>                           <Text>Glass tall</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WINDOW_GLASS_SMALL</LocID>                          <Text>Glass small</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WINDOW_DEFAULT</LocID>                              <Text>Aken päikesevarjuga</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WINDOW_TALL</LocID>                                 <Text>Kõrge aken</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>GLASS_WALL_DOUBLELINES</LocID>                      <Text>Klaassein</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WINDOW_FLAT</LocID>                                 <Text>Vaateaken</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>GLASS_WALL_COLOR</LocID>                            <Text>Klaassein</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WINDOW_GLASS_TALL</LocID>                           <Text>Klaas pikk</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WINDOW_GLASS_SMALL</LocID>                          <Text>Klaas lühike</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>DOOR_DEFAULT</LocID>                                <Text>White door</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOOR_WINDOW</LocID>                                 <Text>Door - windowed</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOOR_XRAY</LocID>                                   <Text>X-ray door</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOOR_DOUBLE_XRAY</LocID>                            <Text>Double X-ray door</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOOR_WC</LocID>                                     <Text>WC door</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOOR_DOUBLE</LocID>                                 <Text>Double door - windowed</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOOR_DOUBLE_SLIDING</LocID>                         <Text>Sliding double door</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOOR_TALL_WINDOW_SINGLE</LocID>                     <Text>Door - windowed</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOOR_DOUBLE_WINDOW</LocID>                     		<Text>Double door - windowed</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOOR_GLASS</LocID>                     				<Text>Glass door</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOOR_DOUBLE_GLASS</LocID>                     		<Text>Double glass door</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOOR_RESTRICTED</LocID>                     		<Text>Restricted area</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOOR_RESTRICTED_DOUBLE</LocID>                     	<Text>Restricted area - double door</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOOR_DOUBLE_ELEVATOR</LocID>                     	<Text>Metal sliding doors</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_DEFAULT</LocID>                                <Text>Valge uks</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_WINDOW</LocID>                                 <Text>Uks - aknaga</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_XRAY</LocID>                                   <Text>Röntgeni uks</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_DOUBLE_XRAY</LocID>                            <Text>Kahekordne röntgeni uks</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_WC</LocID>                                     <Text>WC uks</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_DOUBLE</LocID>                                 <Text>Kahekordne uks - aknaga</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_DOUBLE_SLIDING</LocID>                         <Text>Kahekordne liuguks</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_TALL_WINDOW_SINGLE</LocID>                     <Text>Uks - aknaga</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_DOUBLE_WINDOW</LocID>                     		<Text>Kahekordne uks - aknaga</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_GLASS</LocID>                     				<Text>Klaasuks</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_DOUBLE_GLASS</LocID>                     		<Text>Kahekordne klaasuks</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_RESTRICTED</LocID>                     		<Text>Keelatud ala</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_RESTRICTED_DOUBLE</LocID>                     	<Text>Keelatud ala - kahekordne uks</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_DOUBLE_ELEVATOR</LocID>                     	<Text>Metallist liuguks</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_WAITING</LocID>                           <Text>Waiting room</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_WAITING_DESCRIPTION</LocID>               <Text>Waiting rooms should be placed within reach of each office, lab and radiology room.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DOCTORS_OFFICE</LocID>                    <Text>Doctor's office</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DOCTORS_OFFICE_DESCRIPTION</LocID>        <Text>Basic clinic office for simple examinations and treatments. Staff requirements:\n1x Doctor</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_COMMON_ROOM</LocID>                       <Text>Common room</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_COMMON_ROOM_DESCRIPTION</LocID>           <Text>Common room is the place for hospital staff to rest, study and eat.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_RECEPTION</LocID>                         <Text>Reception</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_RECEPTION_DESCRIPTION</LocID>             <Text>Reception ensures that patients with high risk get prioritized during their visit. \n\nMin. Staff requirements: \n1x Nurse - Receptionist</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_WAITING</LocID>                           <Text>Ooteruum</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_WAITING_DESCRIPTION</LocID>               <Text>Ooteruum peaks olema arstikabineti, labori ja radioloogia ruumide vahetusläheduses.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DOCTORS_OFFICE</LocID>                    <Text>Arstikabinet</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DOCTORS_OFFICE_DESCRIPTION</LocID>        <Text>Tavaline kabinet lihtsamate uuringute ja ravi jaoks. Personali nõuded:\n1x Arst</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_COMMON_ROOM</LocID>                       <Text>Ühisruum</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_COMMON_ROOM_DESCRIPTION</LocID>           <Text>Ühisruum on koht, kus haigla personal puhkab, õpib ja sööb.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_RECEPTION</LocID>                         <Text>Vastuvõtt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_RECEPTION_DESCRIPTION</LocID>             <Text>Vastuvõtt tagab, et kõrgema riskiga patsiendid saavad kiiremini abi. \n\nMin. personali nõuded: \n1x Õde - Vastuvõtu töötaja</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CORRIDOR</LocID>                          <Text>Corridor</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CORRIDOR_DESCRIPTION</LocID>              <Text>Mark corridors as this room type to assign the area and equipment to a department and enable automatic lights and janitor's cleaning service.  \n\nMin. Staff requirements: \nNone</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CORRIDOR</LocID>                          <Text>Koridor</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CORRIDOR_DESCRIPTION</LocID>              <Text>Märkige koridorid, et määrata osakonnale piirkond ja varustus ning võimaldada automaatset tulede süsteemi ja koristusteenust.  \n\nMin. personali nõuded: \nNone</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB</LocID>                          <Text>Stat Lab</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_DESCRIPTION</LocID>              <Text>Stat Lab provides a wide variety of laboratory tests to confirm different diagnoses.\nMin. Staff requirements:\n1x Technologist - Biochemist</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_GS</LocID>                       <Text>Surgery Lab</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_GS_DESCRIPTION</LocID>           <Text>Surgery Lab provides a wide variety of laboratory tests to confirm different diagnoses.\nMin. Staff requirements:\n1x Technologist - Biochemist</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_IM</LocID>                       <Text>Med Lab</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_IM_DESCRIPTION</LocID>           <Text>Med Lab provides a wide variety of laboratory tests to confirm different diagnoses.\nMin. Staff requirements:\n1x Technologist - Biochemist</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_OT</LocID>                       <Text>Ortho Lab</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_OT_DESCRIPTION</LocID>           <Text>Ortho Lab provides a wide variety of laboratory tests to confirm different diagnoses.\nMin. Staff requirements:\n1x Technologist - Biochemist</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_CAR</LocID>                      <Text>Cardio Lab</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_CAR_DESCRIPTION</LocID>          <Text>Cardio Lab provides a wide variety of laboratory tests to confirm different diagnoses.\nMin. Staff requirements:\n1x Technologist - Biochemist</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_NE</LocID>                       <Text>Neuro Lab</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_NE_DESCRIPTION</LocID>           <Text>Neuro Lab provides a wide variety of laboratory tests to confirm different diagnoses.\nMin. Staff requirements:\n1x Technologist - Biochemist</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB</LocID>                          <Text>Stat labor</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_DESCRIPTION</LocID>              <Text>Labor võimaldab teha erinevaid laboratoorseid teste, mis kinnitavad erinevaid diagnoose.\nMin. personali nõuded:\n1x Tehnoloog - Biokeemik</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_GS</LocID>                       <Text>Kirurgia labor</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_GS_DESCRIPTION</LocID>           <Text>Labor võimaldab teha erinevaid laboratoorseid teste, mis kinnitavad erinevaid diagnoose.\nMin. personali nõuded:\n1x Tehnoloog - Biokeemik</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_IM</LocID>                       <Text>Med labor</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_IM_DESCRIPTION</LocID>           <Text>Labor võimaldab teha erinevaid laboratoorseid teste, mis kinnitavad erinevaid diagnoose.\nMin. personali nõuded:\n1x Tehnoloog - Biokeemik</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_OT</LocID>                       <Text>Orto labor</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_OT_DESCRIPTION</LocID>           <Text>Labor võimaldab teha erinevaid laboratoorseid teste, mis kinnitavad erinevaid diagnoose.\nMin. personali nõuded:\n1x Tehnoloog - Biokeemik</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_CAR</LocID>                      <Text>Kardio labor</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_CAR_DESCRIPTION</LocID>          <Text>Labor võimaldab teha erinevaid laboratoorseid teste, mis kinnitavad erinevaid diagnoose.\nMin. personali nõuded:\n1x Tehnoloog - Biokeemik</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_NE</LocID>                       <Text>Neuro labor</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_NE_DESCRIPTION</LocID>           <Text>Labor võimaldab teha erinevaid laboratoorseid teste, mis kinnitavad erinevaid diagnoose.\nMin. personali nõuded:\n1x Tehnoloog - Biokeemik</Text>  </GameDBLocalizedString>
            
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_X_RAY_ROOM</LocID>                        <Text>X-ray room</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_X_RAY_ROOM_DESCRIPTION</LocID>            <Text>X-ray room provides X-ray imaging of different parts of human body, depicting structures beneath the skin and muscles. \n\nMin. Staff requirements: \n1x Technologist - Radiologist</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CT_ROOM</LocID>                           <Text>CT room</Text>    </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CT_ROOM_DESCRIPTION</LocID>               <Text>Computed tomography is diagnostic imaging technique that creates detailed images of internal organs, tissues, blood vessels. \n\nMin. Staff requirements: \n1x Technologist - Radiologist</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_MRI_ROOM</LocID>                          <Text>MRI room</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_MRI_ROOM_DESCRIPTION</LocID>              <Text>Magnetic resonance imaging creates detailed images of the body using magnetic field and radio waves technique. \n\nMin. Staff requirements: \n1x Technologist - Radiologist</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ANGIOGRAPHY_ROOM</LocID>                  <Text>CAG room</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ANGIOGRAPHY_ROOM_DESCRIPTION</LocID>      <Text>Coronary angiography is a medical technique also called arteriography that visualizes blood vessels and organs of the body. \n\nMin. Staff requirements: \n1x Technologist - Radiologist</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_X_RAY_ROOM</LocID>                        <Text>Röntgeni ruum</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_X_RAY_ROOM_DESCRIPTION</LocID>            <Text>Röntgen võimaldab teha inimkehast erinevaid pilte, võimaldades näha luid, lihaseid ja organeid. \n\nMin. personali nõuded: \n1x Tehnoloog - Radioloog</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CT_ROOM</LocID>                           <Text>KT ruum</Text>    </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CT_ROOM_DESCRIPTION</LocID>               <Text>Kompuutertomograafia on diagnostika tüüp mis loob detailsed pildid organitest, kudedest ja veresoontest. \n\nMin. personali nõuded: \n1x Tehnoloog - Radioloog</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_MRI_ROOM</LocID>                          <Text>MRT ruum</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_MRI_ROOM_DESCRIPTION</LocID>              <Text>Magnetresonantstomograafia tekitab inimkehast detailse pildi kasutades tugevaid magneteid ja raadiolaineid. \n\nMin. personali nõuded: \n1x Tehnoloog - Radioloog</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ANGIOGRAPHY_ROOM</LocID>                  <Text>KAG ruum</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ANGIOGRAPHY_ROOM_DESCRIPTION</LocID>      <Text>Kardio angiograafia on meditsiiniline võte, mis visualiseerib veresooned ja organid kehas. \n\nMin. personali nõuded: \n1x Tehnoloog - Radioloog</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ER_OBSERVATION_ROOM</LocID>               <Text>Observation room</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ER_OBSERVATION_ROOM_DESCRIPTION</LocID>   <Text>Many various examinations can be done here, patients are under proper medical supervision. \n\nMin. Staff requirements: \n1x Doctor \n(Personnel based in On-call room)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_WC</LocID>      			                <Text>Restroom</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_WC_DESCRIPTION</LocID>      			    <Text>Room where even a queen must walk. \n\nMin. Staff requirements: \nNone</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CLEANING_CLOSET</LocID>                   <Text>Cleaning closet</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CLEANING_CLOSET_DESCRIPTION</LocID>       <Text>Cleaning closet stores all mandatory equipment for janitors. \n\nMin.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ER_OBSERVATION_ROOM</LocID>               <Text>Vaatlusruum</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ER_OBSERVATION_ROOM_DESCRIPTION</LocID>   <Text>Palju erinevaid uuringuid saab teha siin, patsiendid on hoolitseva silma all. \n\nMin. personali nõuded: \n1x Arst \n(Kutsungiruumis asuv personal)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_WC</LocID>      			                <Text>WC</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_WC_DESCRIPTION</LocID>      			    <Text>Ruum, kus kuningas jala käib. \n\nMin. personali nõuded: \nNone</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CLEANING_CLOSET</LocID>                   <Text>Puhastusruum</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CLEANING_CLOSET_DESCRIPTION</LocID>       <Text>Puhastusruumis on koristajatele kõik vajalik. \n\nMin.</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_GS</LocID>                     <Text>Sonography unit</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_GS_DESCRIPTION</LocID>         <Text>Sonography unit provides specific ultrasound-based examinations and treatments. \n\nMin. Staff requirements: \n1x Technologist - USG</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OT</LocID>                     <Text>Sonography unit</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OT_DESCRIPTION</LocID>         <Text>Sonography unit provides specific ultrasound-based examinations and treatments. \n\nMin. Staff requirements: \n1x Technologist - USG</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_CAR</LocID>                    <Text>Sonography unit</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_CAR_DESCRIPTION</LocID>        <Text>Sonography unit provides specific ultrasound-based examinations and treatments. \n\nMin. Staff requirements: \n1x Technologist - USG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_GS</LocID>                     <Text>Sonograafia üksus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_GS_DESCRIPTION</LocID>         <Text>Sonograafia üksus võimaldab spetsiaalseid ultraheliuuringuid ja ravimeetodeid. \n\nMin. personali nõuded: \n1x Tehnoloog - UH</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OT</LocID>                     <Text>Sonograafia üksus</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OT_DESCRIPTION</LocID>         <Text>Sonograafia üksus võimaldab spetsiaalseid ultraheliuuringuid ja ravimeetodeid. \n\nMin. personali nõuded: \n1x Tehnoloog - UH</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_CAR</LocID>                    <Text>Sonograafia üksus</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_CAR_DESCRIPTION</LocID>        <Text>Sonograafia üksus võimaldab spetsiaalseid ultraheliuuringuid ja ravimeetodeid. \n\nMin. personali nõuded: \n1x Tehnoloog - UH</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_GS</LocID>                <Text>Cardiography unit</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_GS_DESCRIPTION</LocID>    <Text>Cardiography diagnostic unit provides various examination methods and tests related to human cardiovascular system. \n\nMin. Staff requirements: \n1x Technologist - Cardiologist</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_IM</LocID>                <Text>Cardiography unit</Text>    </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_IM_DESCRIPTION</LocID>    <Text>Cardiography diagnostic unit provides various examination methods and tests related to human cardiovascular system. \n\nMin. Staff requirements: \n1x Technologist - Cardiologist</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_CAR</LocID>               <Text>Cardiography unit</Text>    </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_CAR_DESCRIPTION</LocID>   <Text>Cardiography diagnostic unit provides various examination methods and tests related to human cardiovascular system. \n\nMin. Staff requirements: \n1x Technologist - Cardiologist</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_NE</LocID>                <Text>Cardiography unit</Text>    </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_NE_DESCRIPTION</LocID>    <Text>Cardiography diagnostic unit provides various examination methods and tests related to human cardiovascular system. \n\nMin. Staff requirements: \n1x Technologist - Cardiologist</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_GS</LocID>                <Text>Kardiograafia üksus</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_GS_DESCRIPTION</LocID>    <Text>Kardioloogia diagnostikaüksus võimaldab erinevaid uurimismeetoteid ja teste, mis on seotus inimese kardiovaskulaarsüsteemiga. \n\nMin. personali nõuded: \n1x Tehnoloog - Kardioloog</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_IM</LocID>                <Text>Kardiograafia üksus</Text>    </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_IM_DESCRIPTION</LocID>    <Text>Kardioloogia diagnostikaüksus võimaldab erinevaid uurimismeetoteid ja teste, mis on seotus inimese kardiovaskulaarsüsteemiga. \n\nMin. personali nõuded: \n1x Tehnoloog - Kardioloog</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_CAR</LocID>               <Text>Kardiograafia üksus</Text>    </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_CAR_DESCRIPTION</LocID>   <Text>Kardioloogia diagnostikaüksus võimaldab erinevaid uurimismeetoteid ja teste, mis on seotus inimese kardiovaskulaarsüsteemiga. \n\nMin. personali nõuded: \n1x Tehnoloog - Kardioloog</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_NE</LocID>                <Text>Kardiograafia üksus</Text>    </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_NE_DESCRIPTION</LocID>    <Text>Kardioloogia diagnostikaüksus võimaldab erinevaid uurimismeetoteid ja teste, mis on seotus inimese kardiovaskulaarsüsteemiga. \n\nMin. personali nõuded: \n1x Tehnoloog - Kardioloog</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_NEURODIAGNOSTIC_UNIT_NE</LocID>                   <Text>Neurolab unit</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_NEURODIAGNOSTIC_UNIT_NE_DESCRIPTION</LocID>       <Text>Neurolab unit provides specific neurological examinations. \n\nMin. Staff requirements: \n1x Technologist - Neurologist</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_NEURODIAGNOSTIC_UNIT_NE</LocID>                   <Text>Neuroloogia üksus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_NEURODIAGNOSTIC_UNIT_NE_DESCRIPTION</LocID>       <Text>Neuroloogia üksus võimaldab septsiaalseid neuroloogilisi uuringuid. \n\nMin. personali nõuded: \n1x Tehnoloog - Neuroloog</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_TRAUMA_CENTER</LocID>                      <Text>Trauma center</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_TRAUMA_CENTER_DESCRIPTION</LocID>          <Text>Trauma center serves as the main entry point for critical patients delivered by ambulances and also accepts collapsed patients. \n\nMin. Staff requirements: \n1x Doctor - Acute Medicine \n1x Nurse \n(Personnel based in On-call room and Nurses station)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_TRAUMA_CENTER</LocID>                      <Text>Traumakeskus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_TRAUMA_CENTER_DESCRIPTION</LocID>          <Text>Traumakeskus võtab vastu kiirabiga toodud kriitilises seisus patsiente (sh. kokku kukkunud patsiente). \n\nMin. personali nõuded: \n1x Arst - Erakorraline meditsiin \n1x Õde \n(Kutsungiruumis ja õdede ruumis asuv personal)</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_GS_OFFICE</LocID>                               <Text>Diagnostic unit</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_GS_OFFICE_DESCRIPTION</LocID>                   <Text>Diagnostic unit at General Surgery department provides examination and treatment procedures for hospitalized patients. \n\nMin. Staff requirements: \n1x Doctor \n(Personnel based in On-call room)</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_IM_OFFICE</LocID>                               <Text>Diagnostic unit</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_IM_OFFICE_DESCRIPTION</LocID>                   <Text>Diagnostic unit at Internal medicine department provides examination and treatment procedures for hospitalized patients. \n\nMin. Staff requirements: \n1x Doctor \n(Personnel based in On-call room)</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_OT_OFFICE</LocID>                               <Text>Diagnostic unit</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_OT_OFFICE_DESCRIPTION</LocID>                   <Text>Diagnostic unit at Orthopaedy department provides examination and treatment procedures for hospitalized patients. \n\nMin. Staff requirements: \n1x Doctor \n(Personnel based in On-call room)</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_CARDIOLOGY_OFFICE</LocID>                       <Text>Diagnostic unit</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_CARDIOLOGY_OFFICE_DESCRIPTION</LocID>           <Text>Diagnostic unit at Cardiology department provides examination and treatment procedures for hospitalized patients. \n\nMin. Staff requirements: \n1x Doctor \n(Personnel based in On-call room)</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_NEUROLOGY_OFFICE</LocID>                        <Text>Diagnostic unit</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_NEUROLOGY_OFFICE_DESCRIPTION</LocID>            <Text>Diagnostic unit at Neurology department provides examination and treatment procedures for hospitalized patients. \n\nMin. Staff requirements: \n1x Doctor \n(Personnel based in On-call room)</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_GS_OFFICE</LocID>                               <Text>Diagnostika üksus</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_GS_OFFICE_DESCRIPTION</LocID>                   <Text>Diagnostika üksus üldkirurgia osakonnas võimaldab uuringuid ja raviprotseduure haigla patsientidele. \n\nMin. personali nõuded: \n1x Arst \n(Kutsungiruumis asuv personal)</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_IM_OFFICE</LocID>                               <Text>Diagnostika üksus</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_IM_OFFICE_DESCRIPTION</LocID>                   <Text>Diagnostika üksus sisehaiguste osakonnas võimaldab uuringuid ja raviprotseduure haigla patsientidele. \n\nMin. personali nõuded: \n1x Arst \n(Kutsungiruumis asuv personal)</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_OT_OFFICE</LocID>                               <Text>Diagnostika üksus</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_OT_OFFICE_DESCRIPTION</LocID>                   <Text>Diagnostika üksus ortopeedia osakonnas võimaldab uuringuid ja raviprotseduure haigla patsientidele. \n\nMin. personali nõuded: \n1x Arst \n(Kutsungiruumis asuv personal)</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_CARDIOLOGY_OFFICE</LocID>                       <Text>Diagnostika üksus</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_CARDIOLOGY_OFFICE_DESCRIPTION</LocID>           <Text>Diagnostika üksus kardioloogia osakonnas võimaldab uuringuid ja raviprotseduure haigla patsientidele. \n\nMin. personali nõuded: \n1x Arst \n(Kutsungiruumis asuv personal)</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_NEUROLOGY_OFFICE</LocID>                        <Text>Diagnostika üksus</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_NEUROLOGY_OFFICE_DESCRIPTION</LocID>            <Text>Diagnostika üksus neuroloogia osakonnas võimaldab uuringuid ja raviprotseduure haigla patsientidele. \n\nMin. personali nõuded: \n1x Arst \n(Kutsungiruumis asuv personal)</Text></GameDBLocalizedString>
               
             <!-- Room types for testing - will need update -->
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_NURSES_STATION</LocID>                            <Text>Nurses station</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_NURSES_STATION_DESCRIPTION</LocID>                <Text>All nurses that are necessary for running a department are based in here. \n\nMin. Staff requirements: \n3x Nurse</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ON_CALL_ROOM</LocID>                              <Text>On-call room</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ON_CALL_ROOM_DESCRIPTION</LocID>                  <Text>All doctors needed for running a department are based in here.\n\nMin. Staff requirements: \n1x Doctor</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_WARD</LocID>                            <Text>Regular ward</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_WARD_DESCRIPTION</LocID>                <Text>Regular ward for hospitalized patients. \n\nMin. Staff requirements: \n1x Doctor \n1x Nurse \n(Personnel based in On-call room and Nurses station)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_HIGH_PRIORITY_INPATIENT_WARD</LocID>              <Text>HDU</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_HIGH_PRIORITY_INPATIENT_WARD_DESCRIPTION</LocID>  <Text>High dependency unit provides higher level of medical care for hospitalized patients. \n\nMin. Staff requirements: \n1x Doctor \n1x Nurse \n(Personnel based in On-call room and Nurses station)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INTENSIVE_CARE_UNIT</LocID>                       <Text>ICU</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INTENSIVE_CARE_UNIT_DESCRIPTION</LocID>           <Text>Intensive care unit provides superior medical care to critical patients to maintain their vital functions. \n\nMin. Staff requirements: \n1x Doctor \n1x Nurse \n(Personnel based in On-call room and Nurses station)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_NURSES_STATION</LocID>                            <Text>Õdede ruum</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_NURSES_STATION_DESCRIPTION</LocID>                <Text>Kõik õed, keda on vaja osakonna toimimiseks, asuvad siin. \n\nMin. personali nõuded: \n3x Õde</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ON_CALL_ROOM</LocID>                              <Text>Kutsungiruum</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ON_CALL_ROOM_DESCRIPTION</LocID>                  <Text>Kõik arstid, keda on vaja osakonna toimimiseks, asuvad siin.\n\nMin. personali nõuded: \n1x Arst</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_WARD</LocID>                            <Text>Tavapalat</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_WARD_DESCRIPTION</LocID>                <Text>Tavapalat hospitaliseeritud patsientidele. \n\nMin. personali nõuded: \n1x Arst \n1x Õde \n(Kutsungiruumis ja õdede ruumis asuv personal)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_HIGH_PRIORITY_INPATIENT_WARD</LocID>              <Text>KRP</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_HIGH_PRIORITY_INPATIENT_WARD_DESCRIPTION</LocID>  <Text>Kõrgendatud ravivajadusega palat on patsientidele, kellele on vaja ravimisel suuremat tähelepanu pöörata. \n\nMin. personali nõuded: \n1x Arst \n1x Õde \n(Kutsungiruumis ja õdede ruumis asuv personal)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INTENSIVE_CARE_UNIT</LocID>                       <Text>IRP</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INTENSIVE_CARE_UNIT_DESCRIPTION</LocID>           <Text>Intsensiivravi palat on patsientidele, kelle elu on ohus ning tema elulisi näitajaid peab pidevalt jälgima. \n\nMin. personali nõuded: \n1x Arst \n1x Õde \n(Kutsungiruumis ja õdede ruumis asuv personal)</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_GENERAL_SURGERY_OFFICE</LocID>                <Text>General surgery office</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_GENERAL_SURGERY_OFFICE_DESCRIPTION</LocID>    <Text>General surgery office is common diagnostic outpatient office. \n\nMin. Staff requirements: \n1x Doctor</Text>  </GameDBLocalizedString>
