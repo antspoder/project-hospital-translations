@@ -10,42 +10,42 @@
         
         <LocalizedStrings>
             <!-- Departments -->
-            <GameDBLocalizedString>      <LocID>DPT_DEFAULT</LocID>                                                 <Text>No department</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DPT_EMERGENCY</LocID>                                               <Text>Emergency</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DPT_ICU</LocID>                                                     <Text>Intensive Care Unit</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DPT_GENERAL_SURGERY_DEPARTMENT</LocID>                              <Text>General Surgery Department</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DPT_INTERNAL_MEDICINE_DEPARTMENT</LocID>                            <Text>Internal Medicine Department</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DPT_ORTHOPAEDICS_AND_TRAUMATOLOGY</LocID>                           <Text>Orthopaedy</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DPT_CARDIOLOGY</LocID>                                              <Text>Cardiology</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DPT_NEUROLOGY</LocID>                                               <Text>Neurology</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DPT_RADIOLOGY</LocID>                                               <Text>Radiology</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DPT_DEFAULT</LocID>                                                 <Text>Osakond puudub</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DPT_EMERGENCY</LocID>                                               <Text>Erakorraline meditsiin</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DPT_ICU</LocID>                                                     <Text>Intensiivravi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DPT_GENERAL_SURGERY_DEPARTMENT</LocID>                              <Text>Üldkirurgia osakond</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DPT_INTERNAL_MEDICINE_DEPARTMENT</LocID>                            <Text>Sisehaiguste osakond</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DPT_ORTHOPAEDICS_AND_TRAUMATOLOGY</LocID>                           <Text>Ortopeedia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DPT_CARDIOLOGY</LocID>                                              <Text>Kardioloogia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DPT_NEUROLOGY</LocID>                                               <Text>Neuroloogia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DPT_RADIOLOGY</LocID>                                               <Text>Radioloogia</Text>  </GameDBLocalizedString>
 
 
             <!-- Character levels-->
-            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_1</LocID>                                              <Text>Intern</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_1</LocID>                                              <Text>Tudeng</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_2</LocID>                                              <Text>Resident</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_3</LocID>                                              <Text>Attending</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_4</LocID>                                              <Text>Fellow</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_5</LocID>                                              <Text>Specialist</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_3</LocID>                                              <Text>Arst</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_4</LocID>                                              <Text>Eriarst</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_5</LocID>                                              <Text>Spetsialist</Text>  </GameDBLocalizedString>
                                                                                                                
-            <GameDBLocalizedString>      <LocID>NURSE_LEVEL_1</LocID>                                               <Text>Nursing intern</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NURSE_LEVEL_2</LocID>                                               <Text>Registered nurse</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NURSE_LEVEL_3</LocID>                                               <Text>Nurse specialist</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_LEVEL_1</LocID>                                               <Text>Õendustudeng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_LEVEL_2</LocID>                                               <Text>Õde</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_LEVEL_3</LocID>                                               <Text>Vanemõde</Text>  </GameDBLocalizedString>
                                                                                                                
-            <GameDBLocalizedString>      <LocID>LAB_SPECIALIST_LEVEL_1</LocID>                                      <Text>Junior scientist</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LAB_SPECIALIST_LEVEL_2</LocID>                                      <Text>Senior scientist</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LAB_SPECIALIST_LEVEL_3</LocID>                                      <Text>Master scientist</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LAB_SPECIALIST_LEVEL_1</LocID>                                      <Text>Noorem-laborant</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LAB_SPECIALIST_LEVEL_2</LocID>                                      <Text>Laborant</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LAB_SPECIALIST_LEVEL_3</LocID>                                      <Text>Vanem-laborant</Text>  </GameDBLocalizedString>
                                                                                                                
-            <GameDBLocalizedString>      <LocID>JANITOR_LEVEL_1</LocID>                                             <Text>Janitor</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>JANITOR_LEVEL_2</LocID>                                             <Text>Senior janitor</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>JANITOR_LEVEL_3</LocID>                                             <Text>Master janitor</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_LEVEL_1</LocID>                                             <Text>Noorem-koristaja</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_LEVEL_2</LocID>                                             <Text>Koristaja</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_LEVEL_3</LocID>                                             <Text>Vanem-koristaja</Text>  </GameDBLocalizedString>
             
             
             <!-- Doctor's QUALIFICATIONS -->
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_QUALIF_GENERAL_MEDICINE</LocID>                           <Text>General Medicine</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_QUALIF_GENERAL_MEDICINE_DESCRIPTION</LocID>               <Text>General medicine qualification allows the doctor to do all basic examinations and treatments and affects their speed.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_QUALIF_DIAGNOSIS</LocID>                                  <Text>Diagnosis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_QUALIF_DIAGNOSIS_DESCRIPTION</LocID>                      <Text>Diagnosis qualification level affects how often the doctor will misdiagnose patients or have to consult other doctors.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_QUALIF_GENERAL_MEDICINE</LocID>                           <Text>Tavameditsiin</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_QUALIF_GENERAL_MEDICINE_DESCRIPTION</LocID>               <Text>Tavameditsiini kvalifikatsioon võimaldab arstil teha kõiki põhilisi uuringuid ja ravi, mõjutab nende kiirust.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_QUALIF_DIAGNOSIS</LocID>                                  <Text>Diagnoosid</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_QUALIF_DIAGNOSIS_DESCRIPTION</LocID>                      <Text>Diagnoosimise kvalifikatsioonitase mõjutab seda, kui tihti arst valediagnoosib patsiente või peab konsulteerima teiste arstidega.</Text>  </GameDBLocalizedString>
 
             <!-- Doctor's SPECIALIZATIONS -->
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ACUTE_MEDICINE</LocID>                               <Text>Acute medicine</Text>  </GameDBLocalizedString>
