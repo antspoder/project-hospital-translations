@@ -40,14 +40,14 @@
             <GameDBLocalizedString>      <LocID>DIA_ANG_DESCRIPTION</LocID>             <Text>Bakteriaalne kurgumandlite põletik on kurgumandleid mõjutav nakkus. Tavaliselt on see põhjustatud Streptococcus Pyogenes'i bakterist.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ANV</LocID>                         <Text>Viiruslik kurgumandlite põletik</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ANV_DESCRIPTION</LocID>             <Text>Viiruslik kurgumandlite põletik võib olla põhjustatud erinevatest viirustest.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_LAR</LocID>                         <Text>Laryngitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_LAR_DESCRIPTION</LocID>             <Text>Laryngitis refers to inflammation of the voice box. It can be caused by bacteria or virus, but also because of excessive voice use.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_INF</LocID>                         <Text>Influenza</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_INF_DESCRIPTION</LocID>             <Text>Influenza, commonly known as 'the flu', is a common infectious disease caused by the influenza virus family.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BRN</LocID>                         <Text>Bronchitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BRN_DESCRIPTION</LocID>             <Text>Bronchitis is an inflammation of the lower airways called bronchi and is usually caused by virus.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HFV</LocID>                         <Text>Hay fever</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HFV_DESCRIPTION</LocID>             <Text>Hay fever, medically known as allergic rhinitis, is an inflammation in the nose caused by an allergic reaction to an allergen in the air, such as pollen. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LAR</LocID>                         <Text>Kõripõletik</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LAR_DESCRIPTION</LocID>             <Text>Kõripõletik on häälepaelte juures paiknev põletik. See võib olla põhjustatud bakteritest või viirustest, aga ka ülemäärasest häälekasutusest.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_INF</LocID>                         <Text>Gripp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_INF_DESCRIPTION</LocID>             <Text>Gripp on gripiviiruse perekonna poolt põhjustatud tavaline nakkushaigus.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BRN</LocID>                         <Text>Bronhiit</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BRN_DESCRIPTION</LocID>             <Text>Bronhiit on alumistes hingamisteedes asuvate bronhide põletik ning on tavaliselt põhjustatud viirustest.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HFV</LocID>                         <Text>Heinapalavik</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HFV_DESCRIPTION</LocID>             <Text>Heinapalavik ehk õietolmuallergia on ninas tekkiv põletik, mis on põhjustatud allergiliselt reaktsioonist õhus lendleva õietolmu vastu. </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ACD</LocID>                         <Text>Contact dermatitis</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ACD_DESCRIPTION</LocID>             <Text>Contact dermatitis is a localized rash or irritation of the skin caused by contact to an allergen or irritant.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_GEW</LocID>                         <Text>Golfer's elbow</Text>  </GameDBLocalizedString>
