@@ -89,17 +89,17 @@
             <GameDBLocalizedString>      <LocID>SKILL_NURSE_QUALIF_PATIENT_CARE_DESCRIPTION</LocID>                 <Text>Nurse is capable of providing various types of patient care.</Text>  </GameDBLocalizedString>
 
             <!-- Nurse's SPECIALIZATIONS -->
-            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_RECEPTIONIST</LocID>                               <Text>Receptionist</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_RECEPTIONIST_DESCRIPTION</LocID>                   <Text>Receptionist represent point of first contact with patient.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_MEDICAL_SURGERY</LocID>                            <Text>Medical surgery</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_MEDICAL_SURGERY_DESCRIPTION</LocID>                <Text>Medical surgery nurse represent important part of operative surgical teams.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_CLINICAL_SPECIALIST</LocID>                        <Text>Clinical Nurse Specialist</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_CLINICAL_SPECIALIST_DESCRIPTION</LocID>            <Text>Clinical Nurse Specialist is capable of revealing appearance of patient's symptoms.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_RECEPTIONIST</LocID>                               <Text>Registratuuri töötaja</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_RECEPTIONIST_DESCRIPTION</LocID>                   <Text>Registratuuri töötaja on esimene inimene, kelle poole patsient haiglasse saabudes pöördub.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_MEDICAL_SURGERY</LocID>                            <Text>Kirurgia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_MEDICAL_SURGERY_DESCRIPTION</LocID>                <Text>Kirurgiaõed on väga olulised operatsioonimeeskonna liikmed.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_CLINICAL_SPECIALIST</LocID>                        <Text>Kliinilise õenduse spetsialist</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_CLINICAL_SPECIALIST_DESCRIPTION</LocID>            <Text>Clinical Kliinilise õenduse spetsialist on võimeline avastama patsiendi sümptomeid.</Text>  </GameDBLocalizedString>
 
             
             <!-- Lab guys QUALIFICATIONS -->
-            <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_QUALIF_SCIENCE_EDUCATION</LocID>               <Text>Biochemistry</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_QUALIF_SCIENCE_EDUCATION_DESCRIPTION</LocID>   <Text>Biochemistry gives access to various STAT laboratory tests.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_QUALIF_SCIENCE_EDUCATION</LocID>               <Text>Biokeemia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_QUALIF_SCIENCE_EDUCATION_DESCRIPTION</LocID>   <Text>Biokeemia võimaldab juurdepääsu erinevatele laboratoorsetele testidele.</Text>  </GameDBLocalizedString>
 
             <!-- Lab guys SPECIALIZATIONS -->
             <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_BIOCHEMISTRY</LocID>                      <Text>Advanced biochemistry</Text>  </GameDBLocalizedString>
