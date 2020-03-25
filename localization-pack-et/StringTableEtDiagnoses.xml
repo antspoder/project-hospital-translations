@@ -394,124 +394,124 @@
             <!-- ===================== -->
             <!-- Diagnoses - Cardiology-->
             <!-- ===================== -->
-            <GameDBLocalizedString>      <LocID>DIA_ARR</LocID>                         <Text>Acute rheumatic fever</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ARR_DESCRIPTION</LocID>             <Text>Acute rheumatic fever is an inflammatory disease affecting heart, muscles, joints and brain. Usually it develops after streptococcal infection of the throat.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_MST</LocID>                         <Text>Mitral valve stenosis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_MST_DESCRIPTION</LocID>             <Text>Mitral valve stenosis is a narrowing of the heart's mitral valve, that causes improper opening, blocking blood flow.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_TRS</LocID>                         <Text>Tricuspid valve regurgitation</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_TRS_DESCRIPTION</LocID>             <Text>Disorder of the heart's tricuspid valve when it does not close properly.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HHD</LocID>                         <Text>Hypertensive heart disease with heart failure</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HHD_DESCRIPTION</LocID>             <Text>Hypertensive heart disease refers to multiple complications related to high blood pressure that affects the heart.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_IHD</LocID>                         <Text>Ischaemic heart disease with heart failure</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_IHD_DESCRIPTION</LocID>             <Text>Ischaemic heart disease also known as Coronary artery disease is large group of cardiovascular diseases caused by the atherosclerosis.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HRD</LocID>                         <Text>Hypertensive renal disease</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HRD_DESCRIPTION</LocID>             <Text>Hypertensive renal disease refers to kidney damage due to high blood pressure.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ANP</LocID>                         <Text>Angina pectoris</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ANP_DESCRIPTION</LocID>             <Text>Angina pectoris refers to chest pain caused by insufficient blood flow to the heart muscle. Disorder is often one of the symptoms of coronary artery disease.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_AMI</LocID>                         <Text>Acute myocardial infarction</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_AMI_DESCRIPTION</LocID>             <Text>Acute myocardial infarction also known as Heart attack occurs when the blood flow to myocardium is blocked that can destroy or damage part of the muscle.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_TAA</LocID>                         <Text>Thoracic aortic aneurysm</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_TAA_DESCRIPTION</LocID>             <Text>Thoracic aortic aneurysm refers to condition when there is weakened area in the upper part of aorta. There is high risk of rupture.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PEM</LocID>                         <Text>Pulmonary embolism</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PEM_DESCRIPTION</LocID>             <Text>Pulmonary embolism refers to a blockage in one of the pulmonary arteries.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ECT</LocID>                         <Text>Endocarditis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ECT_DESCRIPTION</LocID>             <Text>Endocarditis is an infection of the inner lining of the heart's chambers and valves.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PCT</LocID>                         <Text>Pericarditis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PCT_DESCRIPTION</LocID>             <Text>Pericarditis refers to condition when thin membrane surrounding the heart is irritated and swelling.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_INM</LocID>                         <Text>Myocarditis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_INM_DESCRIPTION</LocID>             <Text>Myocarditis is an inflammation of the heart muscle - myocardium affecting heart's electrical system thus creating arrhythmia - irregular and abnormal heart rhytms.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CAR</LocID>                         <Text>Cardiac arrest</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CAR_DESCRIPTION</LocID>             <Text>Cardiac arrest refers to sudden loss of blood flow resulting from heart failure.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CHF</LocID>                         <Text>Congestive heart failure</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CHF_DESCRIPTION</LocID>             <Text>Heart failure often happens when when heart partially lose ability to pump enough blood to the blood stream.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_STK</LocID>                         <Text>Stroke</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_STK_DESCRIPTION</LocID>             <Text>Brain stroke occurs when blood supply of one part of the brain is interrupted or severely reduced, thus brain tissue is damaged after a few minutes.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ATH</LocID>                         <Text>Atherosclerosis - Carotides</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ATH_DESCRIPTION</LocID>             <Text>Atherosclerosis is a diseases where plaque is built up inside the arteries, hardening and narrowing them and reducing oxygen-rich blood flow. It could be asymptomatic for decades, symptoms appears when certain arteries become blocked.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_TPB</LocID>                         <Text>Thrombophlebitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_TPB_DESCRIPTION</LocID>             <Text>Thrombophlebitis is condition when a blood clot is formed and blocks veins, producing inflammation.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PVT</LocID>                         <Text>Portal vein thrombosis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PVT_DESCRIPTION</LocID>             <Text>Portal vein thrombosis refers to a condition when the portal hepatic vein is blocked by formed clot.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PEB</LocID>                         <Text>Pulmonary hypertension</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PEB_DESCRIPTION</LocID>             <Text>Pulmonary hypertension due to the blockage of one of patient's pulmonary arteries mostly due to blood clots.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PAD</LocID>                         <Text>Peripheral artery disease</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PAD_DESCRIPTION</LocID>             <Text>Peripheral arterial disease is caused by reduced blood flow to upper and lower limbs through narrowed arteries.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_MVP</LocID>                         <Text>Mitral valve prolapse</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_MVP_DESCRIPTION</LocID>             <Text>Mitral valve prolapse happens when heart's mitral valve bulges into left atrium during contraction process.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_DCP</LocID>                         <Text>Dilated cardiomyopathy</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_DCP_DESCRIPTION</LocID>             <Text>Dilated cardiomyopathy represents the stance of the human heart, when the left ventricle becomes enlarged affecting its pumping ability - it is not capable of effectively pumping the blood out of the heart.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_GCA</LocID>                         <Text>Giant cells arteritis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_GCA_DESCRIPTION</LocID>             <Text>Giant cells arteritis is common inflammation of the arterial lining mainly on temporal sides of the head.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ARR</LocID>                         <Text>Äge reumaatiline palavik</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ARR_DESCRIPTION</LocID>             <Text>Äge reumaatiline palavik on põletikuline haigus, mis mõjutab südant, lihaseid, liigeseid ja aju. Tavaliselt areneb see pärast kurgu streptokokkinfektsiooni.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_MST</LocID>                         <Text>Mitraalklapi stenoos</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_MST_DESCRIPTION</LocID>             <Text>Mitraalklapi stenoos on südame mitraalklapi kitsenemine, mis põhjustab ebaõiget avamist, blokeerides verevoolu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TRS</LocID>                         <Text>Trikuspidaalklapi regurgitatsioon</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TRS_DESCRIPTION</LocID>             <Text>Südame trikluspidaalklapi häire, kui see ei sulgu korralikult.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HHD</LocID>                         <Text>Hüpertensiivne südamehaigus koos südamepuudulikkusega</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HHD_DESCRIPTION</LocID>             <Text>Hüpertensiivne südamehaigus tähendab mitmeid komplikatsioone, mis on seotud südant mõjutava kõrge vererõhuga.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IHD</LocID>                         <Text>Isheemiline südamehaigus koos südamepuudulikkusega</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IHD_DESCRIPTION</LocID>             <Text>Isheemiline südamehaigus, tuntud ka kui pärgarteritõbi, on suur rühm ateroskleroosist põhjustatud südame-veresoonkonna haigusi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRD</LocID>                         <Text>Hüpertensiivne neeruhaigus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRD_DESCRIPTION</LocID>             <Text>Hüpertensiivne neeruhaigus viitab kõrge vererõhu tagajärjel tekkinud neerukahjustustele.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ANP</LocID>                         <Text>Stenokardia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ANP_DESCRIPTION</LocID>             <Text>Stenokardia viitab valule rinnus, mis on põhjustatud südamelihase ebapiisavast verevoolust. Häire on sageli üks südame isheemiatõve sümptomeid.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_AMI</LocID>                         <Text>Äge müokardiinfarkt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_AMI_DESCRIPTION</LocID>             <Text>Äge müokardiinfarkt, tuntud ka kui südameatakk, tekib siis, kui verevool südamelihasesse on blokeeritud, mis võib osa lihast hävitada või kahjustada.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TAA</LocID>                         <Text>Rindkere aordi aneurüsm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TAA_DESCRIPTION</LocID>             <Text>Rindkere aordi aneurüsm viitab seisundile, kui aordi ülaosas on nõrgenenud piirkond. Rebenemise oht on suur.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PEM</LocID>                         <Text>Kopsuemboolia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PEM_DESCRIPTION</LocID>             <Text>Kopsuemboolia viitab ummistusele ühes kopsuarteris.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ECT</LocID>                         <Text>Endokardiit</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ECT_DESCRIPTION</LocID>             <Text>Endokardiit on südame kodade ja vatsakeste sisemise kesta infektsioon.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PCT</LocID>                         <Text>Perikardiit</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PCT_DESCRIPTION</LocID>             <Text>Perikardiit viitab seisundile, kui südant ümbritsev õhuke membraan on ärritunud ja turses.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_INM</LocID>                         <Text>Müokardiit</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_INM_DESCRIPTION</LocID>             <Text>Müokardiit on südamelihase põletik - müokard mõjutab südame elektrisüsteemi, tekitades arütmia - ebaregulaarsed ja ebanormaalsed südame rütmid.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CAR</LocID>                         <Text>Südame seiskumine</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CAR_DESCRIPTION</LocID>             <Text>Südame seiskumine viitab südamepuudulikkusest tingitud verevoolu järsule kaotamisele.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CHF</LocID>                         <Text>Südamepuudulikkus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CHF_DESCRIPTION</LocID>             <Text>Südamepuudulikkus juhtub sageli siis, kui süda osaliselt kaotab võime vereringesse piisavalt verd pumbata.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_STK</LocID>                         <Text>Insult</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_STK_DESCRIPTION</LocID>             <Text>Ajurabandus tekib siis, kui ühe ajuosa verevarustus on katkenud või tugevalt vähenenud, seega on ajukude mõne minuti pärast kahjustatud.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ATH</LocID>                         <Text>Ateroskleroos - karotiidid</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ATH_DESCRIPTION</LocID>             <Text>Ateroskleroos on haigus, mille korral arterite sisemusse koguneb naast, mis kõvendab ja ahendab neid ning vähendab hapnikurikka vere voolu. See võib olla asümptomaatiline aastakümneid, sümptomid ilmnevad teatud arterite ummistumisel.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TPB</LocID>                         <Text>Tromboflebiit</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TPB_DESCRIPTION</LocID>             <Text>Tromboflebiit on seisund, kui moodustub verehüüve ja see blokeerib veenid, tekitades põletikku.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PVT</LocID>                         <Text>Portaalveeni tromboos</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PVT_DESCRIPTION</LocID>             <Text>Portaalveeni tromboos viitab seisundile, kus maksa portaalveen on moodustunud hüübimisega blokeeritud.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PEB</LocID>                         <Text>Kopsu hüpertensioon</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PEB_DESCRIPTION</LocID>             <Text>Kopsu hüpertensioon, mis on tingitud ühe patsiendi kopsuarteri ummistumisest, enamasti verehüüvete tõttu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PAD</LocID>                         <Text>Perifeersete arterite haigus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PAD_DESCRIPTION</LocID>             <Text>Perifeersete arterite haigust põhjustab vähenenud verevool üla- ja alajäsemetesse kitsendatud arterite kaudu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_MVP</LocID>                         <Text>Mitraalklapi prolaps</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_MVP_DESCRIPTION</LocID>             <Text>Mitraalklapi prolaps juhtub siis, kui südame mitraalklapid tõmbuvad kontraktsiooni käigus vasakule kojale.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_DCP</LocID>                         <Text>Laiendatud kardiomüopaatia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_DCP_DESCRIPTION</LocID>             <Text>Laiendatud kardiomüopaatia tähistab inimese südame seisundit, kui vasak vatsake suureneb, mõjutades selle pumpamisvõimet - see takistab vere tõhusat väljapumpamist südamest.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GCA</LocID>                         <Text>Hiiglaslike rakkude arteriit</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GCA_DESCRIPTION</LocID>             <Text>Hiiglasrakkude arteriit on arteriaalse vooderduse tavaline põletik peamiselt pea temporaal külgedel.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>TRM_BCI</LocID>                         <Text>Cardiac blunt injury</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_BCI_DESCRIPTION</LocID>             <Text>Cardiac blunt injury is physical trauma to a chest area, either by impact, injury or physical attack.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_FLC</LocID>                         <Text>Flail chest</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_FLC_DESCRIPTION</LocID>             <Text>Flail chest is a life-threatening medical condition that occurs when a segment of the rib cage breaks due to trauma and becomes detached from the rest of the chest wall</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_TCA</LocID>                         <Text>Traumatic cardiac arrest</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_TCA_DESCRIPTION</LocID>             <Text>Heart has ceased to beat due to blunt or penetrating trauma, such as a stab wound to the thoracic area. It is a medical emergency which will always result in death without prompt advanced medical care</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_TAR</LocID>                         <Text>Traumatic aortic rupture</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_TAR_DESCRIPTION</LocID>             <Text>Traumatic aortic disruption or transection, is a condition in which the aorta, the largest artery in the body, is torn or ruptured as a result of trauma to the body. The condition is frequently fatal due to the profuse bleeding that results from the rupture. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_BCI</LocID>                         <Text>Südame vigastus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_BCI_DESCRIPTION</LocID>             <Text>Südame vigastus on rindkere piirkonna füüsiline trauma löögi, vigastuse või füüsilise rünnaku tagajärjel.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_FLC</LocID>                         <Text>Ebastabiilne rinnakorv</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_FLC_DESCRIPTION</LocID>             <Text>Ebastabiilne rinnakorv on eluohtlik meditsiiniline seisund, mis ilmneb siis, kui rinnakorvi segment puruneb trauma tõttu ja eraldub ülejäänud rindkere seinast</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_TCA</LocID>                         <Text>Traumaatiline südameseiskus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_TCA_DESCRIPTION</LocID>             <Text>Süda on lakanud löömast nüri või läbistava trauma, näiteks torkehaava tõttu rindkere piirkonnas. Tegemist on meditsiinilise hädaolukorraga, mille tulemuseks on alati surm ilma kiiret täpsemat arstiabi andmata</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_TAR</LocID>                         <Text>Traumaatiline aordi rebend</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_TAR_DESCRIPTION</LocID>             <Text>Traumeeriv aordi katkemine või transektsioon on seisund, mille korral aort, mis on keha suurim arter, rebeneb või lõhkeb keha trauma tagajärjel. See seisund on sageli surmav rohke verejooksu tõttu, mis tuleneb rebendist. </Text>  </GameDBLocalizedString>
 
             <!-- ===================== -->
             <!-- Diagnoses - Neurology -->
             <!-- ===================== -->
-            <GameDBLocalizedString>      <LocID>DIA_TBE</LocID>                         <Text>Tick-borne encephalitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_TBE_DESCRIPTION</LocID>             <Text>Tick-borne encephalitis is viral tick-borne infectious disease involving brain and central nervous system.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ECS</LocID>                         <Text>Encephalitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ECS_DESCRIPTION</LocID>             <Text>Encephalitis is an inflammation of the brain, most commonly caused by viruses.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_RAB</LocID>                         <Text>Rabies</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_RAB_DESCRIPTION</LocID>             <Text>Rabies is a deadly virus spread by saliva of infected animals. Transmission is often through animal bite.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PMN</LocID>                         <Text>Pneumococcal meningitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PMN_DESCRIPTION</LocID>             <Text>Pneumococcal meningitis is an inflammation of membranes covering the spinal cord and brain due to the pneumococcal infection.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_SMN</LocID>                         <Text>Staphylococcal meningitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_SMN_DESCRIPTION</LocID>             <Text>Staphylococcal meningitis is an inflammation of membranes covering the spinal cord and brain due to the staphylococcal infection.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_MIG</LocID>                         <Text>Migraine</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_MIG_DESCRIPTION</LocID>             <Text>Migraine is a severe, painful headache.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_GBS</LocID>                         <Text>Guillain-Barre syndrome</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_GBS_DESCRIPTION</LocID>             <Text>Guillain-Barre syndrome is a serious disease where the immune system attacks it's own nervous system.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_NMO</LocID>                         <Text>Neuromyelitis optica</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_NMO_DESCRIPTION</LocID>             <Text>Neuromyelitis optica is auto-immune disease when immune system attacks eye nerves and the spinal cord.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_IPD</LocID>                         <Text>CIPD</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_IPD_DESCRIPTION</LocID>             <Text>Chronic inflammatory demyelinizating polyneuropathy is an immune inflammatory disease affecting peripheral nervous system by destructing cover sheet of nerves and fibres.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_TTN</LocID>                         <Text>Tetanus</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_TTN_DESCRIPTION</LocID>             <Text>Tetanus is serious bacterial disease affecting the nervous system and muscles.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BLP</LocID>                         <Text>Blepharitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BLP_DESCRIPTION</LocID>             <Text>Blepharitis is inflammation of the eyelids.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CJN</LocID>                         <Text>Conjunctivitis (bacterial)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CJN_DESCRIPTION</LocID>             <Text>Conjunctivitis  known as "Pink eye" is an inflammatory disease of the outermost layer of the white part of the eye.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CAN</LocID>                         <Text>Conjunctivitis (allergic)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CAN_DESCRIPTION</LocID>             <Text>Conjunctivitis  known as "Pink eye" is an inflammatory disease of the outermost layer of the white part of the eye.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_GLC</LocID>                         <Text>Open-angle glaucoma</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_GLC_DESCRIPTION</LocID>             <Text>Glaucoma is an disease that results in damage to the optic nerve.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CLH</LocID>                         <Text>Cluster headache</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CLH_DESCRIPTION</LocID>             <Text>Cluster headaches are extremely painful headaches that occur only on one side of the head.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HRP</LocID>                         <Text>Hypertensive retinopathy</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HRP_DESCRIPTION</LocID>             <Text>Hypertensive retinopathy is certain damage to the retina’s blood vessels due to the high blood pressure.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_UVE</LocID>                         <Text>Uveitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_UVE_DESCRIPTION</LocID>             <Text>Uveitis refers to inflammation of the part of the eye called the uvea. The uvea includes the iris and some adjacent structures.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_SCL</LocID>                         <Text>Scleritis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_SCL_DESCRIPTION</LocID>             <Text>Scleritis refers to inflammation of the sclera of the eye.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_KRT</LocID>                         <Text>Keratitis - bacterial</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_KRT_DESCRIPTION</LocID>             <Text>Keratitis is an inflammatory disease, mostly caused by bacteria, of the cornea - the clear dome surface of the eye.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CAB</LocID>                         <Text>Corneal abrasion</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CAB_DESCRIPTION</LocID>             <Text>Corneal abrasion - known also as scratched eye is one of the most common eye injuries, when foreign obstacles in the eye produce discomfort and related symptoms.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ACG</LocID>                         <Text>Angle-closure glaucoma</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ACG_DESCRIPTION</LocID>             <Text>Acute angle-closure glaucoma is caused by sudden and rapid increase of the intraocular pressure - IOP.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CRV</LocID>                         <Text>CRVO</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CRV_DESCRIPTION</LocID>             <Text>Central retinal vein occlusion is one of the common vascular disorders of the eye's retina.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TBE</LocID>                         <Text>Puukentsefaliit</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TBE_DESCRIPTION</LocID>             <Text>Puukentsefaliit on viiruslik puukentsefaliit, mis hõlmab aju ja kesknärvisüsteemi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ECS</LocID>                         <Text>Entsefaliit</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ECS_DESCRIPTION</LocID>             <Text>Entsefaliit on ajupõletik, mida enamasti põhjustavad viirused.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_RAB</LocID>                         <Text>Marutaud</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_RAB_DESCRIPTION</LocID>             <Text>Marutaud on surmav viirus, mida levitavad nakatunud loomade sülg. Edastamine toimub sageli loomade hammustuse kaudu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PMN</LocID>                         <Text>Pneumokokiline meningiit</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PMN_DESCRIPTION</LocID>             <Text>Pneumokokiline meningiit on seljaaju ja aju katvate membraanide põletik, mis on tingitud pneumokokkidest.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SMN</LocID>                         <Text>Stafülokoki meningiit</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SMN_DESCRIPTION</LocID>             <Text>Stafülokoki meningiit on seljaaju ja aju katvate membraanide põletik stafülokoki nakkuse tõttu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_MIG</LocID>                         <Text>Migreen</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_MIG_DESCRIPTION</LocID>             <Text>Migreen on tugev, valulik peavalu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GBS</LocID>                         <Text>Guillain-Barre sündroom</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GBS_DESCRIPTION</LocID>             <Text>Guillain-Barre'i sündroom on tõsine haigus, mille korral immuunsüsteem ründab tema enda närvisüsteemi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_NMO</LocID>                         <Text>Neuromüeliit optica</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_NMO_DESCRIPTION</LocID>             <Text>Neuromüeliit optica on autoimmuunhaigus, kui immuunsüsteem ründab silma närve ja seljaaju.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IPD</LocID>                         <Text>Krooniline põletikuline demüeliniseeriv polüneuropaatia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IPD_DESCRIPTION</LocID>             <Text>Krooniline põletikuline demüeliniseeriv polüneuropaatia on perifeerset närvisüsteemi mõjutav immuunne põletikuline haigus, hävitades närvide ja kiudude kattekihi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TTN</LocID>                         <Text>Teetanus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TTN_DESCRIPTION</LocID>             <Text>Teetanus on tõsine bakteriaalne haigus, mis mõjutab närvisüsteemi ja lihaseid.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BLP</LocID>                         <Text>Blefariit</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BLP_DESCRIPTION</LocID>             <Text>Blefariit on silmalaugude põletik.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CJN</LocID>                         <Text>Konjunktiviit (bakteriaalne)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CJN_DESCRIPTION</LocID>             <Text>Konjunktiviit, mida tuntakse "roosa silma" nime all, on silma valge osa välimise kihi põletikuline haigus.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CAN</LocID>                         <Text>Konjunktiviit (allergiline)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CAN_DESCRIPTION</LocID>             <Text>Konjunktiviit, mida tuntakse "roosa silma" nime all, on silma valge osa välimise kihi põletikuline haigus.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GLC</LocID>                         <Text>Glaukoom</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GLC_DESCRIPTION</LocID>             <Text>Avatud nurga glaukoom on haigus, mille tagajärjel kahjustatakse nägemisnärvi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CLH</LocID>                         <Text>Kobarpeavalu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CLH_DESCRIPTION</LocID>             <Text>Kobarpeavalud on äärmiselt valusad peavalud, mis esinevad ainult ühel peaküljel.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRP</LocID>                         <Text>Hüpertensiivne retinopaatia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRP_DESCRIPTION</LocID>             <Text>Hüpertensiivne retinopaatia on võrkkesta veresoonte teatav kahjustus kõrge vererõhu tõttu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_UVE</LocID>                         <Text>Uveiit</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_UVE_DESCRIPTION</LocID>             <Text>Uveiit viitab silmaosa, mida nimetatakse uveaks, põletikule. Uvea hõlmab iirist ja mõnda külgnevat struktuuri.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SCL</LocID>                         <Text>Skleriit</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SCL_DESCRIPTION</LocID>             <Text>Skleriit viitab silma sklera põletikule.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_KRT</LocID>                         <Text>Keratiit - bakteriaalne</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_KRT_DESCRIPTION</LocID>             <Text>Keratiit on sarvkesta - silma selge kupli pinna põletikuline haigus, mida põhjustavad enamasti bakterid.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CAB</LocID>                         <Text>Sarvkesta abrasioon</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CAB_DESCRIPTION</LocID>             <Text>Sarvkesta abrasioon - tuntud ka kui kriimustatud silm - on üks levinumaid silmavigastusi, kui võõrad takistused silma tekitavad ebamugavust ja sellega seotud sümptomeid.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ACG</LocID>                         <Text>Nurga sulgemise glaukoom</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ACG_DESCRIPTION</LocID>             <Text>Äge nurga sulgemise glaukoom on põhjustatud silmasisese rõhu - SSR - järsust ja kiirest tõusust.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CRV</LocID>                         <Text>Keskmise võrkkesta veenide oklusioon</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CRV_DESCRIPTION</LocID>             <Text>Võrkkesta veenide tsentraalne oklusioon on silma võrkkesta üks levinumaid veresoonkonna häireid.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>TRM_CCS</LocID>                         <Text>Concussion</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_CCS_DESCRIPTION</LocID>             <Text>A concussion is a mild traumatic brain injury resulting in temporary altered brain function.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_CTS</LocID>                         <Text>Cerebral contusion</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_CTS_DESCRIPTION</LocID>             <Text>Cerebral contusion is a traumatic brain injury usually due to blunt head trauma.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_DAI</LocID>                         <Text>Diffuse axonal injury</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_DAI_DESCRIPTION</LocID>             <Text>Diffuse axonal injury is one of the most common brain injuries, it occurs when the brain shifts too quickly inside the skull.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_TBI</LocID>                         <Text>Traumatic brain injury</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_TBI_DESCRIPTION</LocID>             <Text>Occurs when an external force injures the brain. It can be caused by accidents or blunt trauma.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_AIH</LocID>                         <Text>Subdural hematoma</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_AIH_DESCRIPTION</LocID>             <Text>Subdural hematoma is a condition where veins in the subdural space are torn and start to bleed. Blood accumulates in the narrow space which increases the pressure inside the skull cavity. The condition is fatal if left untreated.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_OBI</LocID>                         <Text>Penetrating trauma - Head</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_OBI_DESCRIPTION</LocID>             <Text>Penetrating head injury is an injury in which the dura mater, the outer layer of the meninges, is breached.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CCS</LocID>                         <Text>Põrutus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CCS_DESCRIPTION</LocID>             <Text>Põrutus on kerge traumaatiline ajukahjustus, mille tagajärjel ajutiselt muutuvad ajufunktsioonid.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CTS</LocID>                         <Text>Aju kontusioon</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CTS_DESCRIPTION</LocID>             <Text>Tserebraalne peapõrutus on traumaatiline ajukahjustus, mis on tavaliselt põhjustatud nüri peatraumast.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_DAI</LocID>                         <Text>Hajus aksonaalne vigastus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_DAI_DESCRIPTION</LocID>             <Text>Hajus aksonaalne vigastus on üks levinumaid ajukahjustusi, see tekib siis, kui aju nihkub kolju sees liiga kiiresti.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_TBI</LocID>                         <Text>Traumaatiline ajukahjustus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_TBI_DESCRIPTION</LocID>             <Text>Tekib siis, kui väline jõud vigastab aju. Selle võib põhjustada õnnetused või nüri trauma.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_AIH</LocID>                         <Text>Subduraalne hematoom</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_AIH_DESCRIPTION</LocID>             <Text>Subduraalne hematoom on seisund, mille korral subduraalses ruumis olevad veenid rebenevad ja hakkavad veritsema. Veri koguneb kitsasse ruumi, mis suurendab survet koljuõõnes. Ravimata jätmise korral on see seisund surmav.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_OBI</LocID>                         <Text>Läbistav trauma - pea</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_OBI_DESCRIPTION</LocID>             <Text>Pea läbistav peavigastus on vigastus, mille käigus rikutakse ajuosa välimist kihti - vastupidavast materjali.</Text>  </GameDBLocalizedString>
 
             
         </LocalizedStrings>
