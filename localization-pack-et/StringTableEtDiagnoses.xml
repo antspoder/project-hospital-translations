@@ -5,7 +5,7 @@
         <LanguageNameLocalized>Eesti</LanguageNameLocalized>
     
         <Contributors>
-          <Name>Fill your names!</Name>
+          <Name>Ants Põder</Name>
         </Contributors>
         
         <LocalizedStrings>
@@ -13,12 +13,12 @@
             <!-- ============================ -->
             <!-- Diagnoses - Emergency -->
             <!-- ============================ -->
-            <GameDBLocalizedString>      <LocID>DIA_PTI</LocID>                         <Text>Pork tapeworm</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PTI_DESCRIPTION</LocID>             <Text>Pork tapeworms (T. solium) are parasitic flatworms living in the digestive system of humans. Pigs act as intermediate hosts when they consume fodder or water contaminated with human feces. Eating undercooked pork can cause infection.</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BTI</LocID>                         <Text>Beef tapeworm</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BTI_DESCRIPTION</LocID>             <Text>Beef tapeworms (T. saginata) are parasitic flatworms living in the digestive system of humans. Cattle act as intermediate hosts when they consume fodder or water contaminated with human feces. Eating undercooked beef can cause infection.</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CKX</LocID>                         <Text>Chickenpox</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CKX_DESCRIPTION</LocID>             <Text>Chickenpox, also known as varicella, is a highly contagious disease caused by the initial infection with Varicella zoster virus. The disease results in a characteristic skin rash that forms small, itchy blisters, which eventually scab over.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PTI</LocID>                         <Text>Nookpaeluss</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PTI_DESCRIPTION</LocID>             <Text>Nookpaelussid (T. solium) on parasiitsed lamedad ussid, kes elavad inimeste seedesüsteemis. Sead on vaheperemeesteks, kui nad tarbivad toitu või vett, mis on saastunud inimeste väljaheidetega. Toore sealiha söömine põhjustab nakkust.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BTI</LocID>                         <Text>Nudipaeluss</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BTI_DESCRIPTION</LocID>             <Text>Nudipaelussid (T. saginata) on parasiitsed lamedad ussid, kes elavad inimeste seedesüsteemis. Veised on vaheperemeesteks, kui nad tarbivad toitu või vett, mis on saastunud inimeste väljaheidetega. Toore veiseliha söömine põhjustab nakkust..</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CKX</LocID>                         <Text>Tuulerõuged</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CKX_DESCRIPTION</LocID>             <Text>Tuulerõuged (Varicella) on väga nakkav haigus, mille on põhjustanud Varicella Zosteri viirus. Haiguse tagajärjel ilmneb iseloomulik nahalööve, millest moodustuvad väikesed sügelevad villid, mis lõpuks kärbuvad.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_HRZ</LocID>                         <Text>Shingles</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_HRZ_DESCRIPTION</LocID>             <Text>Shingles is an infection caused by a reactivation of varicella-zoster virus. The disease results in a red skin rash that forms small blisters in a wide stripe following the course of a dermatome. Shingles can be extremely painful.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ONM</LocID>                         <Text>Nail fungus</Text>  </GameDBLocalizedString>
