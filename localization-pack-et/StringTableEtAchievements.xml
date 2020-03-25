@@ -10,7 +10,7 @@
     
         <LocalizedStrings>
             <!--Building-->
-            <!-- UPDATED --> <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PLACE_OBJECT</LocID>                       <Text>Ah, that's the spot</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --> <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PLACE_OBJECT</LocID>                       <Text>Ah, see on see koht</Text>  </GameDBLocalizedString>
             <!-- UPDATED --> <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PLACE_OBJECT_DESCRIPTION</LocID>           <Text>Congratulations, you placed your first object!</Text>  </GameDBLocalizedString>
             <!-- UPDATED --> <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MORE_SPOTS</LocID>                         <Text>Uh, more spots!</Text>  </GameDBLocalizedString>
             <!-- UPDATED --> <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MORE_SPOTS_DESCRIPTION</LocID>             <Text>Place 100 single objects.</Text>  </GameDBLocalizedString>
