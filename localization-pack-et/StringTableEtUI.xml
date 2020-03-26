@@ -5,92 +5,92 @@
         <LanguageNameLocalized>Eesti</LanguageNameLocalized>
     
         <Contributors>
-          <Name>Fill your names!</Name>
+          <Name>Ants Põder</Name>
         </Contributors>
         
         <LocalizedStrings>
             <!-- Menus -->
-            <GameDBLocalizedString>      <LocID>QUIT</LocID>                                <Text>Quit</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>QUIT</LocID>                                <Text>Lahku</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OK</LocID>                                  <Text>Ok</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DELETE</LocID>                              <Text>Delete</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>CANCEL</LocID>                              <Text>Cancel</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WIDTH</LocID>                               <Text>Width</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>HEIGHT</LocID>                              <Text>Height</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NAME</LocID>                                <Text>Name</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DELETE</LocID>                              <Text>Kustuta</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CANCEL</LocID>                              <Text>Tühista</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WIDTH</LocID>                               <Text>Laius</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HEIGHT</LocID>                              <Text>Kõrgus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NAME</LocID>                                <Text>Nimi</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>TITLE_SCREEN_MAP_EDITOR</LocID>             <Text>Map Editor</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TITLE_SCREEN_GAME_TEST</LocID>              <Text>Sandbox</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TITLE_SCREEN_MAP_EDITOR</LocID>             <Text>Kaardiredaktor</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TITLE_SCREEN_GAME_TEST</LocID>              <Text>Liivakast</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TITLE_SCREEN_ANIM_TEST</LocID>              <Text>Anim Test</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_01</LocID>                   <Text>Tutorial 1</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_01_DESCRIPTION</LocID>       <Text>Learn the basics of diagnosing and treating patients</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_01a</LocID>                  <Text>Tutorial 1 A</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_01b</LocID>                  <Text>Tutorial 1 B</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_01</LocID>                   <Text>Õpetus 1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_01_DESCRIPTION</LocID>       <Text>Õppige patsientide diagnoosimise ja ravi aluseid</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_01a</LocID>                  <Text>Õpetus 1 A</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_01b</LocID>                  <Text>Õpetus 1 B</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_02</LocID>                   <Text>Tutorial 2</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_02_DESCRIPTION</LocID>       <Text>Build a functional small clinic</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_02</LocID>                   <Text>Õpetus 2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_02_DESCRIPTION</LocID>       <Text>Ehitage toimiv väike kliinik</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_03</LocID>                   <Text>Tutorial 3</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_03_DESCRIPTION</LocID>       <Text>Management and hospitalization</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_03</LocID>                   <Text>Õpetus 3</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_03_DESCRIPTION</LocID>       <Text>Juhtimine ja haiglaravi</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_04</LocID>                   <Text>Tutorial 4</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_04_DESCRIPTION</LocID>       <Text>Hospitalization</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_04</LocID>                   <Text>Õpetus 4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_04_DESCRIPTION</LocID>       <Text>Haiglaravi</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_01</LocID>                   <Text>Campaign 1</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_01_DESCRIPTION</LocID>       <Text>Inefficient</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_01</LocID>                   <Text>Proovikivi 1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_01_DESCRIPTION</LocID>       <Text>Ebaefektiivne</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_02</LocID>                   <Text>Campaign 2</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_02_DESCRIPTION</LocID>       <Text>In Debt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_02</LocID>                   <Text>Proovikivi 2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_02_DESCRIPTION</LocID>       <Text>Võlas</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_03</LocID>                   <Text>Campaign 3</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_03_DESCRIPTION</LocID>       <Text>State grant</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_03</LocID>                   <Text>Proovikivi 3</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_03_DESCRIPTION</LocID>       <Text>Riiklik toetus</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_01</LocID>                    <Text>EMPTY FIELD</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_01_DESCRIPTION</LocID>        <Text>Build a hospital from scratch and attempt all the challenges that running a hospital has to offer! Manage your staff and take care of your patients.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_01</LocID>                    <Text>TÜHI ALA</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_01_DESCRIPTION</LocID>        <Text>Ehitage haigla nullist üles ja proovige kõiki väljakutseid, mida haigla pidamine pakub! Hallake oma personali ja hoolitsege oma patsientide eest.</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_01_BIG</LocID>                <Text>EMPTY FIELD (96 x 96 VERSION)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_01_BIG</LocID>                <Text>TÜHI ALA (96 x 96 VERSIOON)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_01_BIG_DESCRIPTION</LocID>    <Text> </Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_02</LocID>                    <Text>BASIC CLINIC</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_02_DESCRIPTION</LocID>        <Text>Start with a small working emergency clinic. Make it profitable and extend it to a full modern hospital, full of professional staff and happy patients.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_02</LocID>                    <Text>TAVALINE KLIINIK</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_02_DESCRIPTION</LocID>        <Text>Alustage väikesest töötavast erakorralise meditsiini kliinikust. Tehke see kasumlikuks ja laiendage see täielikult kaasaegseks haiglaks, mis on täis professionaalset personali ja õnnelikke patsiente.</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_03</LocID>                    <Text>SMALL HOSPITAL</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_03_DESCRIPTION</LocID>        <Text>Skip the building part and jump right to the doctor's duty. Focus on the medical side of gameplay or make this hospital bigger and more efficient!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_03</LocID>                    <Text>VÄIKE HAIGLA</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_03_DESCRIPTION</LocID>        <Text>Jäta ehitus osa vahele ning keskendu arstiks olemisele. Keskenduge mängude meditsiinilisele küljele või muutke see haigla suuremaks ja tõhusamaks!</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>MAP_EDITOR_NEW</LocID>                      <Text>New...</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>MAP_EDITOR_SAVE</LocID>                     <Text>Save...</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>MAP_EDITOR_LOAD</LocID>                     <Text>Load...</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAVE_SCENARIO</LocID>                       <Text>Save scenario</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LOAD_SCENARIO</LocID>                       <Text>Load scenario</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>BACK_TO_GAME</LocID>                        <Text>Back to game</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EXIT_TO_MENU</LocID>                        <Text>Exit to menu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MAP_EDITOR_NEW</LocID>                      <Text>Uus...</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MAP_EDITOR_SAVE</LocID>                     <Text>Salvestamine...</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MAP_EDITOR_LOAD</LocID>                     <Text>Laadminine...</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAVE_SCENARIO</LocID>                       <Text>Salvesta stsenaarium</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOAD_SCENARIO</LocID>                       <Text>Lae stsenaarium</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>BACK_TO_GAME</LocID>                        <Text>Tagasi mängu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXIT_TO_MENU</LocID>                        <Text>Lahku menüüsse</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>MAP_EDITOR_NEW_MAP</LocID>                  <Text>New map</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>MAP_EDITOR_SAVE_MAP</LocID>                 <Text>Save map</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>MAP_EDITOR_LOAD_MAP</LocID>                 <Text>Load map</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAVE_PREFAB</LocID>                         <Text>Save prefab</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MAP_EDITOR_NEW_MAP</LocID>                  <Text>Uus kaart</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MAP_EDITOR_SAVE_MAP</LocID>                 <Text>Salvesta kaart</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MAP_EDITOR_LOAD_MAP</LocID>                 <Text>Lae kaart</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAVE_PREFAB</LocID>                         <Text>Salvesta valmisruum</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>NOTIFICATIONS_SET_ALL_TO_LOG</LocID>        <Text>All log</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIFICATIONS_RESTORE_DEFAULTS</LocID>      <Text>Restore defaults</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIFICATIONS_SET_ALL_TO_LOG</LocID>        <Text>Kogu logi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIFICATIONS_RESTORE_DEFAULTS</LocID>      <Text>Taasta algseaded</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>KEYBOARD_LAYOUT</LocID>                     <Text>Show keyboard controls</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>KEYBOARD_CONTROLS_HEADING</LocID>           <Text>Keyboard controls</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>KEYBOARD_LAYOUT</LocID>                     <Text>Näita klaviatuuri juhtelemente</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>KEYBOARD_CONTROLS_HEADING</LocID>           <Text>Klaviatuuri juhtelemendid</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>MAP_EDITOR_BUILD</LocID>                    <Text>BUILD</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>MAP_EDITOR_FLOORS</LocID>                   <Text>Floors</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>MAP_EDITOR_WALLS</LocID>                    <Text>Walls</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>MAP_EDITOR_DOORS</LocID>                    <Text>Doors\nWindows</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>MAP_EDITOR_ROOMS</LocID>                    <Text>Rooms</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>MAP_EDITOR_OBJECTS</LocID>                  <Text>Objects</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MAP_EDITOR_BUILD</LocID>                    <Text>EHITA</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MAP_EDITOR_FLOORS</LocID>                   <Text>Põrandad</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MAP_EDITOR_WALLS</LocID>                    <Text>Seinad</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MAP_EDITOR_DOORS</LocID>                    <Text>Uksed\nAknad</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MAP_EDITOR_ROOMS</LocID>                    <Text>Ruumid</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MAP_EDITOR_OBJECTS</LocID>                  <Text>Objektid</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>LOADING</LocID>                             <Text>Loading...</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING</LocID>                             <Text>Laeb...</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>TEXTURES_HI_RES</LocID>                     <Text>Texture quality: High</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TEXTURES_LO_RES</LocID>                     <Text>Texture quality: Low</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TEXTURES_HI_RES</LocID>                     <Text>Tekstuuri kvaliteet: kõrge</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TEXTURES_LO_RES</LocID>                     <Text>Tekstuuri kvaliteet: madal</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>STATISTICS_PERIOD_DAY</LocID>               <Text>Day</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>STATISTICS_PERIOD_WEEK</LocID>              <Text>Week</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>STATISTICS_PERIOD_MONTH</LocID>             <Text>Month</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>STATISTICS_PERIOD_DAY</LocID>               <Text>Päev</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>STATISTICS_PERIOD_WEEK</LocID>              <Text>Nädal</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>STATISTICS_PERIOD_MONTH</LocID>             <Text>Kuu</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>UI_ROOM_MISSING_EQUIPMENT</LocID>           <Text>MISSING EQUIPMENT</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>UI_ROOM_INACCESSIBLE</LocID>                <Text>NOT ACCESSIBLE</Text>  </GameDBLocalizedString>
