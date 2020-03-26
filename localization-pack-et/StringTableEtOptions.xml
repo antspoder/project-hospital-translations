@@ -5,32 +5,32 @@
         <LanguageNameLocalized>Eesti</LanguageNameLocalized>
     
         <Contributors>
-          <Name>Fill your names!</Name>
+          <Name>Ants Põder</Name>
         </Contributors>
         
         <LocalizedStrings>
-            <GameDBLocalizedString>      <LocID>UI_OPTIONS</LocID>                     <Text>OPTIONS</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>UI_OPTIONS_MESSAGES</LocID>            <Text>NOTIFICATION OPTIONS</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_BLOOD</LocID>             <Text>Display blood</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_SCHEDULE</LocID>          <Text>Display active daily schedule</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OPTIONS_UI_SCALE_AUTO</LocID>          <Text>Automatic UI scale</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OPTIONS_UI_SCALE</LocID>               <Text>UI scale</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OPTIONS_UI_TOOLTIP_DELAY</LocID>       <Text>Tooltip delay (0 - 1s)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UI_OPTIONS</LocID>                     <Text>SÄTTED</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UI_OPTIONS_MESSAGES</LocID>            <Text>TEAVITUSTE SÄTTED</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_BLOOD</LocID>             <Text>Näita verd</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_SCHEDULE</LocID>          <Text>Näita aktiivset päevaplaani</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_UI_SCALE_AUTO</LocID>          <Text>Automaatne ekraani suurus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_UI_SCALE</LocID>               <Text>Ekraani suurus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_UI_TOOLTIP_DELAY</LocID>       <Text>Vihje viivitus (0 - 1s)</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_SFX</LocID>             <Text>Volume: FX</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_MUSIC</LocID>           <Text>Volume: Music</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_DIALOGUE</LocID>        <Text>Volume: Dialog</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_UI</LocID>              <Text>Volume: UI</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_SFX</LocID>             <Text>Helitugevus: FX</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_MUSIC</LocID>           <Text>Helitugevus: Muusika</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_DIALOGUE</LocID>        <Text>Helitugevus: Dialoog</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_UI</LocID>              <Text>Helitugevus: UI</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>OPTIONS_AUTO_FOUNDATION_WALLS</LocID>  <Text>Automatically add walls around foundations</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_PAYMENTS_INGAME</LocID>   <Text>Show payments ingame</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_XP_INGAME</LocID>         <Text>Show gained XP ingame</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OPTIONS_TRANSPARENT_OPEN_DOORS</LocID> <Text>Fade out open doors</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_AUTO_FOUNDATION_WALLS</LocID>  <Text>Automaatselt lisa seinad vundamendi ümber</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_PAYMENTS_INGAME</LocID>   <Text>Näita makseid mängusiseselt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_XP_INGAME</LocID>         <Text>Näita kogutud XP mängusiseselt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_TRANSPARENT_OPEN_DOORS</LocID> <Text>Hajutage avatud uksed</Text>  </GameDBLocalizedString>
 
             <!-- ============= NEW, NEED TRANSLATING ================== -->
-            <GameDBLocalizedString>      <LocID>OPTIONS_ALLOW_DEATH</LocID>            <Text>Death allowed</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>AUTOSAVE_ENABLED</LocID>               <Text>Autosave enabled</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>AUTOSAVE_EVERY_HOUR</LocID>            <Text>Autosave every hour</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_ALLOW_DEATH</LocID>            <Text>Suremine lubatud</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>AUTOSAVE_ENABLED</LocID>               <Text>Automaatne salvestamine lubatud</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>AUTOSAVE_EVERY_HOUR</LocID>            <Text>Automaatne salvestamine iga tund</Text>  </GameDBLocalizedString>
             
         </LocalizedStrings>
     </GameDBStringTable>
